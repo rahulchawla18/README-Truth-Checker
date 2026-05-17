@@ -1,0 +1,10 @@
+{
+  "name": "readme-truth-checker",
+  "version": "0.1.0",
+  "description": "Detects drift between a Python project's README.md and reality. Runs the README's quickstart steps in a clean Docker container, diagnoses any failures by inspecting the real codebase, and (with your permission) opens a PR with the fix.",
+  "author": {
+    "name": "Rahul Chawla",
+    "email": "rahulchawla5247@gamil.com"
+  },
+  "license": "MIT"
+}

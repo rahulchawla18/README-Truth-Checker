@@ -1,0 +1,16 @@
+{
+  "name": "readme-truth-checker-local",
+  "owner": {
+    "name": "Rahul Chawla",
+    "email": "rahulchawla5247@gamil.com",
+    "url": "https://github.com/rahulchawla18"
+  },
+  "plugins": [
+    {
+      "name": "readme-truth-checker",
+      "source": "./",
+      "description": "Detects drift between a Python project's README.md and reality. Runs the README's quickstart steps in a clean Docker container, diagnoses any failures, and (with your permission) opens a PR with the fix.",
+      "version": "0.1.0"
+    }
+  ]
+}
